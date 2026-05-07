@@ -1,0 +1,21 @@
+# Audio data (too large for git)
+Guitar/
+
+# Generated artifacts
+output/
+models/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
